@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m **Jinkun Chen**, a Ph.D. student in Computer Science at Dalhousie University.  
+My work focuses on **Explainable AI**, **NLP**, **Visualization**, and **Memory-Augmented LLMs**.
+
+## 🔬 Research Areas
+- LLM reasoning
+- Bias evaluation & fairness in LLMs / recommender systems
+- Maritime data analytics (AISViz, AISdb)
+- Multi-agent simulation frameworks
+
+## 📚 Social Medias
+- Home Page: [jinkunchen.com](https://jinkunchen.com)
+- Twitter: [@_jinnkunn](https://twitter.com/_jinnkunn)
+
+---
+⭐️ Always open to collaborations in AI research and applications.
