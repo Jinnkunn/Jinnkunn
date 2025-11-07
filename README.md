@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m **Jinkun Chen**, a Ph.D. student in Computer Science at Dalhousie University.  
-My work focuses on **Explainable AI**, **NLP**, **Visualization**, and **Memory-Augmented LLMs**.
+My work focuses on **Explainable AI**, **NLP**, **Visualization**, and **LLM Reasoning**.
 
 ## 🔬 Research Areas
 - LLM reasoning
