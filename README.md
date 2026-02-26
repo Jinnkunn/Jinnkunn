@@ -37,17 +37,6 @@ I enjoy turning research ideas into practical systems and open-source tools.
 - **Multi-agent simulation**: sandboxing social behaviors in interactive environments
 - **Open tooling**: shipping practical utilities and developer-facing products
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Jinnkunn/Call-for-Reviewers"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jinnkunn&repo=Call-for-Reviewers&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Jinnkunn/Microverse"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jinnkunn&repo=Microverse&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jinnkunn/Uptimer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jinnkunn&repo=Uptimer&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Jinnkunn/jinnkunn.com"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jinnkunn&repo=jinnkunn.com&theme=tokyonight&hide_border=true" /></a>
-</p>
-
 ## GitHub Analytics
 
 <p align="center">
