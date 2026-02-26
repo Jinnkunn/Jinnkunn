@@ -20,6 +20,19 @@
 - Research: `LLM Reasoning`, `Explainable AI`, `Bias & Fairness`, `Visualization`.
 - Open to research collaborations and real-world AI applications.
 
+## Current Focus
+
+- Measuring reasoning drift and order sensitivity in LLM outputs.
+- Building robust evaluation workflows for fairness and reliability.
+- Converting research ideas into practical, open-source tools.
+
+## Featured Work
+
+- [Call-for-Reviewers](https://github.com/Jinnkunn/Call-for-Reviewers): conference/journal reviewer call aggregator.
+- [Microverse](https://github.com/Jinnkunn/Microverse): multi-agent AI social simulation sandbox on Godot 4.
+- [Uptimer](https://github.com/Jinnkunn/Uptimer): serverless uptime monitoring and status pages on Cloudflare.
+- [jinnkunn.com](https://github.com/Jinnkunn/jinnkunn.com): personal website and research blog codebase.
+
 ## GitHub Analytics
 
 <p align="center">
@@ -34,6 +47,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinnkunn&bg_color=ffffff&color=0f172a&line=0ea5e9&point=0284c7&area=true&hide_border=true" />
 </p>
+
+## Recent Updates
+
+<!-- BLOG-POST-LIST:START -->
+- [Context Order and Reasoning Drift: Measuring Order Sensitivity from Token Probabilities](https://jinkunchen.com/blog/list/context-order-and-reasoning-drift-measuring-order-sensitivity-from-token-probabilities)
+- [Measuring Reasoning Drift: A Token-Level Instability Signal](https://jinkunchen.com/blog/list/measuring-reasoning-drift-a-token-level-instability-signal)
+- [When AI Reasoning Starts to Drift](https://jinkunchen.com/blog/list/when-ai-reasoning-starts-to-drift)
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
