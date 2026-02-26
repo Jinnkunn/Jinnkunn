@@ -1,5 +1,7 @@
+<h1 align="center">Jinkun Chen</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0ea5e9,100:06b6d4&height=220&section=header&text=Jinkun%20Chen&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ph.D.%20Student%20%7C%20Explainable%20AI%20%26%20LLM%20Reasoning&descAlignY=62&descSize=16" />
+  <strong>Ph.D. Student in Computer Science @ Dalhousie University</strong>
 </p>
 
 <p align="center">
