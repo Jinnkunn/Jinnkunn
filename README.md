@@ -26,13 +26,6 @@
 - Building robust evaluation workflows for fairness and reliability.
 - Converting research ideas into practical, open-source tools.
 
-## Featured Work
-
-- [Call-for-Reviewers](https://github.com/Jinnkunn/Call-for-Reviewers): conference/journal reviewer call aggregator.
-- [Microverse](https://github.com/Jinnkunn/Microverse): multi-agent AI social simulation sandbox on Godot 4.
-- [Uptimer](https://github.com/Jinnkunn/Uptimer): serverless uptime monitoring and status pages on Cloudflare.
-- [jinnkunn.com](https://github.com/Jinnkunn/jinnkunn.com): personal website and research blog codebase.
-
 ## GitHub Analytics
 
 <p align="center">
