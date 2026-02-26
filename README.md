@@ -38,4 +38,4 @@
 ## Connect
 
 - Website: [jinkunchen.com](https://jinkunchen.com)
-- Email: `jinkunchen1016@gmail.com`
+- Email: `i@jinkunchen.com` / `jinkun.chen@dal.ca`
