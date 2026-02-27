@@ -51,5 +51,5 @@
 
 ## Connect
 
-- Website: [jinkunchen.com](https://jinkunchen.com)
+- Website: [jinkunchen.com](https://jinkunchen.com/?from=github)
 - Email: `i@jinkunchen.com` / `jinkun.chen@dal.ca`
